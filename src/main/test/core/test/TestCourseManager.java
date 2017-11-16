@@ -116,5 +116,4 @@ public class TestCourseManager {
         assertEquals(11, this.admin.getClassCapacity("ECS161", 2017));
         assertEquals("Instructor1", this.courseManager.getClassInstructor("ECS161", 2017));
     }//fail
-	
 }
